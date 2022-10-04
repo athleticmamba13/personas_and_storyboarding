@@ -21,6 +21,12 @@ hr {
     border-bottom: 2px solid rgb(0, 0, 0);
 }
 
+#margin {
+    background-color: rgb(162, 243, 175);
+    height: 55px;
+    width: 100%;
+}
+
 #interface-sketch {
     background-color: rgb(206, 250, 213);
 }
