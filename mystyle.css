@@ -1,0 +1,50 @@
+body {
+    background-color: lightgray;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.personas {
+    max-width: 50rem;
+}
+
+#interface-sketch {
+    background-color: white;
+}
+
+#observations {
+    background-color: #e6ffe6
+}
+
+#assignment-title {
+    background-color: aliceblue;
+}
+
+#laundry-sketch {
+    max-width: 65%;
+}
+
+#observations {
+    background-color: #e9f6f9;
+}
+
+#interviews {
+    background-color: #e2fdf4;
+}
+
+#personas {
+    background-color: #f7e4fa;
+}
+
+#storyboard {
+    background-color: #f2f5e2;
+}
+
+#storyboard-img {
+    max-width: 80%;
+}
+
