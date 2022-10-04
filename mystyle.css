@@ -18,7 +18,7 @@ hr {
 
 .navbar {
     background-color: rgb(128, 162, 133);
-    border-bottom: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid gray;
 }
 
 #margin {
