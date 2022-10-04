@@ -1,5 +1,9 @@
 body {
-    background-color: lightgray;
+    background-color: rgb(51, 50, 50);
+}
+
+hr {
+    color: white;
 }
 
 .center {
@@ -12,16 +16,21 @@ body {
     max-width: 50rem;
 }
 
+.navbar {
+    background-color: rgb(128, 162, 133);
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
 #interface-sketch {
-    background-color: white;
+    background-color: rgb(206, 250, 213);
 }
 
 #observations {
-    background-color: #e6ffe6
+    background-color: #b9e8b9
 }
 
 #assignment-title {
-    background-color: aliceblue;
+    background-color: rgb(162, 243, 175);
 }
 
 #laundry-sketch {
@@ -29,7 +38,7 @@ body {
 }
 
 #observations {
-    background-color: #e9f6f9;
+    background-color: #c9fce1;
 }
 
 #interviews {
@@ -37,11 +46,11 @@ body {
 }
 
 #personas {
-    background-color: #f7e4fa;
+    background-color: #d8f5f9;
 }
 
 #storyboard {
-    background-color: #f2f5e2;
+    background-color: #c0f0f7;
 }
 
 #storyboard-img {
